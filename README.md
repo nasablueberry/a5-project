@@ -1,6 +1,3 @@
-Got it! So you want the **Q\&A sections to remain labeled the same way**, but the **answers can be reworded and formatted differently**—more concise, clear, or in your own style. Here's a version ready to paste into GitHub:
-
-````markdown
 # 🌱 Green Earth – Plant a Tree, Grow a Future
 
 Welcome to **Green Earth**, a responsive web application dedicated to planting trees and promoting environmental conservation. Browse trees by category, add them to your cart, and help make the planet greener—right from your browser.
