@@ -1,6 +1,6 @@
 # 🌱 Green Earth – Plant a Tree, Grow a Future
 
-Welcome to **Green Earth**, a responsive web application dedicated to planting trees and promoting environmental conservation. Browse trees by category, add them to your cart, and help make the planet greener—right from your browser.
+**Green Earth** is responsive web application dedicated to planting trees and promoting environmental conservation. Browse trees by category, add them to your cart and help make the planet greener.
 
 ---
 
@@ -146,22 +146,7 @@ string`;
 
 ---
 
-## 🚀 Getting Started
-
-1. Clone the repository
-2. Open `index.html` in your browser
-3. Browse trees, add to cart, and support a greener planet!
-
----
-
-## 🤝 Contributing
-
-Fork the repo, make your improvements, and submit a pull request.
-
----
-
 ## 📄 License
-
 This project is open-source under the [MIT License](LICENSE).
 
 ```
